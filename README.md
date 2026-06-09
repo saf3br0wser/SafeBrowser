@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://spicetify.app/"><img src="https://i.imgur.com/iwcLITQ.png" width="600px"></a></h3>
+<h3 align="center"><a href="[https://safebrowser.website/](https://imgur.com/a/dPGyaf2)"><img src="https://i.imgur.com/iwcLITQ.png" width="600px"></a></h3>
 <p align="center">
   <a href="https://goreportcard.com/report/github.com/spicetify/cli"><img src="https://goreportcard.com/badge/github.com/spicetify/cli"></a>
   <a href="https://github.com/spicetify/cli/releases/latest"><img src="https://img.shields.io/github/release/spicetify/cli/all.svg?colorB=97CA00&label=latest%20version"></a>
