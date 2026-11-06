@@ -1,0 +1,22 @@
+"urlslist": [
+    {
+      "name": "crazygames.com",
+      "category": "Games",
+      "times_visited": 123
+    },
+    {
+      "name": "chatgpt.com",
+      "category": "AI",
+      "times_visited": 324
+    },
+    {
+      "name": "google.com",
+      "category": "Search Engines",
+      "times_visited": 12
+    },
+    {
+      "name": "poki.com",
+      "category": "Games",
+      "times_visited": 324
+    }
+  ]
