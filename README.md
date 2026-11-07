@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://safebrowser.website/">
-    <img src="https://github.com/saf3br0wser/SafeBrowser/blob/main/safebrowserlogo.png?raw=true" alt="SafeBrowser logo" width="160">
+    <img src="https://github.com/saf3br0wser/SafeBrowser/blob/main/safebrowserlogo.png?raw=true" alt="SafeBrowser logo" width="900">
   </a>
 
   # SafeBrowser
