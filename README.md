@@ -3,8 +3,6 @@
     <img src="https://github.com/saf3br0wser/SafeBrowser/blob/main/safebrowserlogo.png?raw=true" alt="SafeBrowser logo" width="900">
   </a>
 
-  # SafeBrowser
-
   **A simpler way to browse. Built with Apple Shortcuts.**
 
   Discover, organize, and open websites with fewer steps — all through a lightweight, shortcut-powered experience.
